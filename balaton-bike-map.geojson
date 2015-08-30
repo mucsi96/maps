@@ -5,11 +5,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -29,7 +24,7 @@
         "type": "Feature",
         "properties": {
             "name": "Lido Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/lido_kemping_balatonszemes/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/lido_kemping_balatonszemes/)",
             "title": "Lido Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -45,11 +40,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -80,7 +70,7 @@
         "type": "Feature",
         "properties": {
             "name": "Autós Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/lido_kemping_balatonszemes/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/lido_kemping_balatonszemes/)",
             "title": "Autós Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -96,11 +86,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -126,7 +111,7 @@
         "type": "Feature",
         "properties": {
             "name": "Park Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/park_kemping_vonyarcvashegy/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/park_kemping_vonyarcvashegy/)",
             "title": "Park Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -142,11 +127,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -167,7 +147,7 @@
         "type": "Feature",
         "properties": {
             "name": "Európa Camping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/europa_kemping_alsoors/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/europa_kemping_alsoors/)",
             "title": "Európa Camping",
             "marker-color": "",
             "marker-size": "",
@@ -183,11 +163,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -990,11 +965,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -1021,7 +991,7 @@
         "type": "Feature",
         "properties": {
             "name": "Vadvirág Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/vadvirag_kemping_balatonszemes/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/vadvirag_kemping_balatonszemes/)",
             "title": "Vadvirág Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -1037,11 +1007,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -1425,11 +1390,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -1454,11 +1414,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -1483,7 +1438,7 @@
         "type": "Feature",
         "properties": {
             "name": "Venus Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/venus_kemping_balatonszepezd/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/venus_kemping_balatonszepezd/)",
             "title": "Venus Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -1498,7 +1453,7 @@
         "type": "Feature",
         "properties": {
             "name": "Napfény Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/levendula_naturista_kemping_balatonakali/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/levendula_naturista_kemping_balatonakali/)",
             "title": "Napfény Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -1514,11 +1469,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -1607,7 +1557,7 @@
         "type": "Feature",
         "properties": {
             "name": "Park Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/park_kemping_vonyarcvashegy/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/park_kemping_vonyarcvashegy/)",
             "title": "Park Kemping",
             "marker-color": "#f1f075",
             "marker-size": "small",
@@ -1622,7 +1572,7 @@
         "type": "Feature",
         "properties": {
             "name": "Napsugár Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/napsugar_kemping_fonyod/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/napsugar_kemping_fonyod/)",
             "title": "Napsugár Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -1637,7 +1587,7 @@
         "type": "Feature",
         "properties": {
             "name": "Füred Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/europa_kemping_alsoors/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/europa_kemping_alsoors/)",
             "title": "Füred Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -1652,7 +1602,7 @@
         "type": "Feature",
         "properties": {
             "name": "Berény Naturista Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/park_kemping_vonyarcvashegy/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/park_kemping_vonyarcvashegy/)",
             "title": "Berény Naturista Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -1668,11 +1618,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -1691,7 +1636,7 @@
         "type": "Feature",
         "properties": {
             "name": "Napsugár Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/napsugar_kemping_fonyod/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/napsugar_kemping_fonyod/)",
             "title": "Napsugár Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -1707,11 +1652,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -1731,11 +1671,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -2036,11 +1971,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -3462,7 +3392,7 @@
         "type": "Feature",
         "properties": {
             "name": "Strand-Holiday Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/strand-holiday_kemping_balatonakali/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/strand-holiday_kemping_balatonakali/)",
             "title": "Strand-Holiday Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -3477,7 +3407,7 @@
         "type": "Feature",
         "properties": {
             "name": "Park Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/park_kemping_vonyarcvashegy/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/park_kemping_vonyarcvashegy/)",
             "title": "Park Kemping",
             "marker-color": "#f1f075",
             "marker-size": "small",
@@ -3492,7 +3422,7 @@
         "type": "Feature",
         "properties": {
             "name": "Yacht Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/ifjusag_kemping_siofok-sosto/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/ifjusag_kemping_siofok-sosto/)",
             "title": "Yacht Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -3507,7 +3437,7 @@
         "type": "Feature",
         "properties": {
             "name": "Vadvirág Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/vadvirag_kemping_balatonszemes/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/vadvirag_kemping_balatonszemes/)",
             "title": "Vadvirág Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -3523,11 +3453,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -3544,7 +3469,7 @@
         "type": "Feature",
         "properties": {
             "name": "Ifjúság Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/ifjusag_kemping_siofok-sosto/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/ifjusag_kemping_siofok-sosto/)",
             "title": "Ifjúság Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -3560,11 +3485,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -3852,11 +3772,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -3888,7 +3803,7 @@
         "type": "Feature",
         "properties": {
             "name": "Zala Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/zala_kemping_keszthely/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/zala_kemping_keszthely/)",
             "title": "Zala Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -3918,7 +3833,7 @@
         "type": "Feature",
         "properties": {
             "name": "Club 218 Apartmanház és Hotel",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/club_218_apartmanhaz_siofok/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/club_218_apartmanhaz_siofok/)",
             "title": "Club 218 Apartmanház és Hotel",
             "marker-color": "",
             "marker-size": "",
@@ -3934,11 +3849,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -3961,11 +3871,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -4220,11 +4125,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -4263,11 +4163,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -4300,7 +4195,7 @@
         "type": "Feature",
         "properties": {
             "name": "Aranypart Kemping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/autos_kemping_zamardi/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/autos_kemping_zamardi/)",
             "title": "Aranypart Kemping",
             "marker-color": "",
             "marker-size": "",
@@ -4316,11 +4211,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
@@ -4576,7 +4466,7 @@
         "type": "Feature",
         "properties": {
             "name": "Levendula Naturista Camping",
-            "description": "website (http://www.balatontourist.hu/balaton_kemping_szallashely/levendula_naturista_kemping_balatonakali/)",
+            "description": "website (https://www.balatontourist.hu/balaton_kemping_szallashely/levendula_naturista_kemping_balatonakali/)",
             "title": "Levendula Naturista Camping",
             "marker-color": "",
             "marker-size": "",
@@ -4592,11 +4482,6 @@
         "properties": {
             "styleUrl": "#sst2",
             "styleHash": "-57ebac90",
-            "description": "<img src=\"http://data2.openstreetmap.hu/turistautak/jel/zbic.png\" /><br />Balatoni Bringa Körút<br />OSM ID:<a href=\"http://www.openstreetmap.org/browse/relation/2518726\">2518726</a><br />Össztáv:203.46km<br />Adatok <a href=\"http://openstreetmap.org/\">© OpenStreetMap és közreműködői </a><br /><a href=\"http://www.openstreetmap.org/copyright\">(ODbL 1.0.)</a>",
-            "title": "",
-            "marker-color": "",
-            "marker-size": "",
-            "marker-symbol": "",
             "stroke": "#1087bf",
             "stroke-width": 4,
             "stroke-opacity": 1
