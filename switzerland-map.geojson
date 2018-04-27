@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grindelwald"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.036563396453857,
+          46.623682272636316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lenzerheide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.557633399963379,
+          46.72785982323895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Appenzell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.409747123718262,
+          47.330330044959396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stein am Rhein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.859679698944092,
+          47.65978734507434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Partnunsee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.859035909175873,
+          47.00709446652125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schaffhausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.634481430053711,
+          47.69601420401381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grimentz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57382869720459,
+          46.18027612275651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zermatt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749416828155517,
+          46.0222001364181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luzern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.305460214614868,
+          47.05053428650261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rhine Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.615185618400574,
+          47.67875630841676
+        ]
+      }
+    }
+  ]
+}
