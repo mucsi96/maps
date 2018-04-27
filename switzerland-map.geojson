@@ -130,6 +130,19 @@
           47.67875630841676
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caumasee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.296225309371948,
+          46.820216008184204
+        ]
+      }
     }
   ]
 }
